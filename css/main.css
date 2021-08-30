@@ -115,6 +115,7 @@ ul.social-icons {
 }
 .add_to_discord {
     display: flex;
+    margin: auto;
     align-items: center;
     background-color: #5865F2;
     border-radius: 8px;
