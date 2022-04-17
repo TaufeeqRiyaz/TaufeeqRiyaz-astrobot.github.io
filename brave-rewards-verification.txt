@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: astrobot.me
+Token: 32465e667a19e8d06630c15eb89318c5f5e2920bbc9a766da2ee54735031b6e1
